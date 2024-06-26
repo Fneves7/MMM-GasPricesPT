@@ -28,7 +28,7 @@ Module.register("MMM-GasPricesPT", {
   },
 
    getStyles: function () {
-    return ["MMM-combustivel.css"];
+    return ["MMM-GasPricesPT.css"];
   },
 
   getScripts: function() {
