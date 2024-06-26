@@ -1,0 +1,17 @@
+.gas-table {
+  border-collapse: collapse;
+}
+
+.gas-table th{
+    text-align: center;
+    font-size: 17px;
+    background: rgba(191, 191, 191, 0.2);
+}
+
+.gas-table td {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: left;
+  font-size: 14px;
+  font-weight: bold;
+}
